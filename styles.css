@@ -22,3 +22,10 @@ p {
 td {
     font-size: 120%;
 }
+hr { 
+    border-top: dotted grey 6px;
+    border-bottom: none;
+    width: 80%;
+    margin: 100px auto;
+
+}
